@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# AWS credentials
+.aws/
+credentials
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Local data files
+*.parquet
+*.db
